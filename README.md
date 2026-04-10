@@ -5,7 +5,25 @@
 This system predicts future sales based on historical business data. It helps store owners and managers plan inventory, manage cash flow, and avoid overstocking.
 
 ## 📊 Project Preview
-![Sales Forecast Chart](./outputs%20screenshots/YOUR_IMAGE_NAME.png)
+## 📊 Project Visualizations
+<table>
+  <tr>
+    <td><b>Sales Forecast (Future Predictions)</b></td>
+    <td><b>Model Accuracy (Actual vs Predicted)</b></td>
+  </tr>
+  <tr>
+    <td><img src="./outputs%20screenshots/sales_forecast.png" width="400"></td>
+    <td><img src="./outputs%20screenshots/actual_vs_predicted.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><b>Monthly Sales Trends</b></td>
+    <td><b>Top Drivers (Feature Importance)</b></td>
+  </tr>
+  <tr>
+    <td><img src="./outputs%20screenshots/monthly_trend_by_year.png" width="400"></td>
+    <td><img src="./outputs%20screenshots/feature_importance.png" width="400"></td>
+  </tr>
+</table>
 
 ## 📁 Repository Structure
 - `data/`: Raw and cleaned datasets.
