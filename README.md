@@ -12,19 +12,18 @@ This system predicts future sales based on historical business data. It helps st
     <td><b>Model Accuracy (Actual vs Predicted)</b></td>
   </tr>
   <tr>
-    <td><img src="./outputs%20screenshots/sales_forecast.png" width="400"></td>
-    <td><img src="./outputs%20screenshots/actual_vs_predicted.png" width="400"></td>
+    <td><img src="./FUTURE_ML_01/outputs/sales_forecast.png" width="400"></td>
+    <td><img src="./FUTURE_ML_01/outputs/actual_vs_predicted.png" width="400"></td>
   </tr>
   <tr>
     <td><b>Monthly Sales Trends</b></td>
     <td><b>Top Drivers (Feature Importance)</b></td>
   </tr>
   <tr>
-    <td><img src="./outputs%20screenshots/monthly_trend_by_year.png" width="400"></td>
-    <td><img src="./outputs%20screenshots/feature_importance.png" width="400"></td>
+    <td><img src="./FUTURE_ML_01/outputs/monthly_trend_by_year.png" width="400"></td>
+    <td><img src="./FUTURE_ML_01/outputs/feature_importance.png" width="400"></td>
   </tr>
 </table>
-
 ## 📁 Repository Structure
 - `data/`: Raw and cleaned datasets.
 - `models/`: Trained model files (e.g., .pkl or .joblib).
